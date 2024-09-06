@@ -252,7 +252,7 @@ http://192.168.2.254:4022/rtp/239.45.0.5:5140
 #EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视
 http://192.168.2.254:4022/rtp/239.45.1.80:5140
 
-#EXTINF:-1 tvg-name="海南卫视" group-title=卫视"",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视"",海南卫视
 http://192.168.2.254:4022/rtp/239.45.1.81:5140
 
 #EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视
